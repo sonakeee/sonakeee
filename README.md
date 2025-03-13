@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonakeee)](https://solved.ac/sonakeee/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonakeee&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonakeee%2Fhit-counter&count_bg=%236548FF&title_bg=%23822ED7&icon=deno.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                    
