@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sonakeee)](https://solved.ac/sonakeee/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonakeee&layout=compact&bg_color=10deg,red,blue&custon_title='test')
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonakeee&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
